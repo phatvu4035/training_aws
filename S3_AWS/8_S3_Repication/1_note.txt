@@ -1,0 +1,2 @@
+CRR: Cross Region Application
+ARR: Same Region Application
